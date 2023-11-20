@@ -8,7 +8,7 @@ Swirl is your guide on an exploration of the Python Programming Language.
 Inspired by [PyLadies](https://pyladies.com), Swirl is a friendly, helpful, and
 patient mascot to learning Python.
 
-![Swirl](static/swirl-mascot-1000.png)
+![Swirl](content/static/swirl-mascot-1000.png)
 
 ## ✨ Try it in your browser ✨
 
